@@ -1,3 +1,5 @@
+> **yabai + skhd** no longer working with macOS 26.x
+
 # myMacConfig
 ---
 Place the *for you* relevant folders from this repository's `.config` into your equivalent folder located at `~/.config`.
